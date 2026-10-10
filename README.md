@@ -274,7 +274,7 @@ Manage cloud resources, deploy services, and operate infrastructure.
   `aws` `finops` `terraform` `cloudformation` `read-only`
 - **[Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare)** `Official` `TypeScript` — Manage Workers, KV, R2, and Cloudflare platform resources.  
   `cloudflare` `edge` `workers`
-- **[DropTheHassle](https://github.com/bosmdavid-gif/dropthehassle-mcp)** `Official` `JavaScript` — Puts a site online on a free HTTPS link with no account for a first deploy, or on a .com (€19/$19) that goes live with no DNS after the human pays a link. Optional mailbox. No tool spends money.  
+- **[DropTheHassle](https://github.com/bosmdavid-gif/dropthehassle-mcp)** `Official` `JavaScript` — Publishes a site on a free HTTPS link (no account for a first deploy) or a .com (€19/$19) that goes live with no DNS after the human pays. Restore brings back a claimed site's previous version. Optional mailbox. No tool spends money.  
   `hosting` `deployment` `domains` `https` `remote`
 - **[Fly.io MCP Server](https://github.com/superfly/flymcp)** `Official` `TypeScript` — Manage Fly.io apps, machines, and deployments via MCP.  
   `fly` `deploy` `edge`
