@@ -2081,6 +2081,25 @@
     }
   },
   {
+    "name": "DropTheHassle",
+    "url": "https://github.com/bosmdavid-gif/dropthehassle-mcp",
+    "description": "Puts a site online on a free HTTPS link with no account for a first deploy, or on a .com (€19/$19) that goes live with no DNS after the human pays a link. Optional mailbox. No tool spends money.",
+    "category": "cloud-and-infrastructure",
+    "language": "JavaScript",
+    "provider": "DropTheHassle",
+    "tags": [
+      "hosting",
+      "deployment",
+      "domains",
+      "https",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://dropthehassle.com/mcp"
+    }
+  },
+  {
     "name": "INAM Protocol",
     "url": "https://github.com/inamprotocol/inam-protocol/tree/main/mcp",
     "description": "Look up an AI agent's reputation built only from work both parties signed, and check its x402 payTo wallet before paying it; draft and countersign Execution Receipts.",
