@@ -1027,7 +1027,7 @@ Manage Workers, KV, R2, and Cloudflare platform resources.
 
 ### DropTheHassle
 
-Publishes a site on a free HTTPS link (no account to start) or a .com (€19/$19) that goes live with no DNS after the human pays. Also Edit files (one file, no rebuild), Restore, and Collect leads: form messages go to your mailbox.
+Publishes a site on a free HTTPS link (no account to start) or a .com (€19/$19) that goes live with no DNS after the human pays. Also Edit files, Restore, Collect leads (form messages to your mailbox) and an optional site password.
 
 - URL: https://github.com/bosmdavid-gif/dropthehassle-mcp
 - Language: JavaScript
