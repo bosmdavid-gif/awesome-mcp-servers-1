@@ -2083,7 +2083,7 @@
   {
     "name": "DropTheHassle",
     "url": "https://github.com/bosmdavid-gif/dropthehassle-mcp",
-    "description": "Publishes a site on a free HTTPS link (no account to start) or a .com (€19/$19) that goes live with no DNS after the human pays. Edit files changes one file without a rebuild; Restore undoes the last Update or Edit files save.",
+    "description": "Publishes a site on a free HTTPS link (no account to start) or a .com (€19/$19) that goes live with no DNS after the human pays. Also Edit files (one file, no rebuild), Restore, and Collect leads: form messages go to your mailbox.",
     "category": "cloud-and-infrastructure",
     "language": "JavaScript",
     "provider": "DropTheHassle",
